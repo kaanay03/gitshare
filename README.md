@@ -17,7 +17,7 @@ Visual Studio Code extension which automatically updates your GitHub status with
 - You may optionally customize the plugin behavior by updating the other configuration values.
 
 ## Configuration Overview
-```json
+```
 {
     "gitshare.token": "" //Your GitHub personal access token
     "gitshare.emoji": ":computer:" //GitHub emoji to use in status
