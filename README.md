@@ -3,15 +3,15 @@
 Visual Studio Code extension which automatically updates your GitHub status with what you're coding. 
 
 # Demo
-![Demo](/assets/demo.png)
+![Demo](https://raw.githubusercontent.com/kaanay03/gitshare/master/assets/demo.png)
 
 # Configuration
-![Token Generation](/assets/tokengen.png)
+![Token Generation](https://raw.githubusercontent.com/kaanay03/gitshare/master/assets/tokengen.pngg)
 - Navigate to `GitHub Profile Settings -> Developer Settings -> Personal access tokens`
 - Generate a personal access token with the user scope.
 - Copy the token to your clipboard, and optionally give it a name reminding you of its purpose.  
   
-![Settings](/assets/config.png)
+![Settings](https://raw.githubusercontent.com/kaanay03/gitshare/master/assets/config.png)
 - Navigate to Visual Studio `Settings -> Extensions -> GitShare`
 - Paste your personal access token in the token field.
 - You may optionally customize the plugin behavior by updating the other configuration values.
@@ -36,7 +36,7 @@ After configuration, to toggle status sharing on and off run the toggle command.
 or
 2. Launch Visual Studio Code and Quick Open (`Ctrl + P`), and paste the following command:
 ```
-ext install placeholder
+ext install gitshare
 ```
 
 # Contribute
