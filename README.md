@@ -6,7 +6,7 @@ Visual Studio Code extension which automatically updates your GitHub status with
 ![Demo](https://raw.githubusercontent.com/kaanay03/gitshare/master/assets/demo.png)
 
 # Configuration
-![Token Generation](https://raw.githubusercontent.com/kaanay03/gitshare/master/assets/tokengen.pngg)
+![Token Generation](https://raw.githubusercontent.com/kaanay03/gitshare/master/assets/tokengen.png)
 - Navigate to `GitHub Profile Settings -> Developer Settings -> Personal access tokens`
 - Generate a personal access token with the user scope.
 - Copy the token to your clipboard, and optionally give it a name reminding you of its purpose.  
